@@ -7,4 +7,24 @@ I am a:
 + Avocado
 + (sometimes) Human
 + Shopping Cart(either costco or walmart)
+
 ------------------------------------------------------------
+x<sup>2</sup> = WHO CARES???
+```
+print("Hello World!")
+
+#include <iostream>
+int main() {
+  std::cout << "Hello World";
+  return 0;
+}
+
+public class Main {
+  public static void main(String[] args){
+    System.out.println("Hello World");
+  }
+}
+
+```
+Look guys, its obvious which ones are better.
+
