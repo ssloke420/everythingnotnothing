@@ -1,7 +1,10 @@
 THE REAL HOME OF THE SHLEK
 ============================
-[The Fake Home](https://ssloke420.github.io/)
-> Python is readable and simple. C++ is insanely powerful. Java is... just dumb.
+[The Fake Home](https://ssloke420.github.io/) &nbsp;&nbsp; [Projects](projects.md)
+
+-----------------------------------------------------------------------------------------
+## Quote of life:
+> Python is readable and simple. C++ is insanely powerful. Java is... just dumb.  - Some Smart Guy
 
 I am a:
 + Avocado
